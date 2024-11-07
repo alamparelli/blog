@@ -12,6 +12,4 @@ Right now, I have a ton of ideas swirling around, and I’ve had to make some ch
 
 It felt essential to have a space where I can continue sharing my thoughts and keep you updated on my upcoming projects. I value this blog a lot—not only for myself (I might be the only reader for now!) but also for you, future visitors.
 
-Feel free to leave a message or follow me on social media so we can share and connect around all the exciting things currently in progress. This blog will be a space for ideas and connections, where I hope to build something meaningful with you.
-
-Don't hesitate to subscribe to the RSS feed or leave me a message via the [portfolio website](https://portfolio.lamparelli.eu/contact).
+Don't hesitate to subscribe to the RSS feed or leave me a message via the [portfolio website](https://portfolio.lamparelli.eu/contact) so we can share and connect around all the exciting things currently in progress. This blog will be a space for ideas and connections, where I hope to build something meaningful with you.
