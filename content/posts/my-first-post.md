@@ -6,7 +6,7 @@ tags = [
     "first",
 ]
 +++
-![Welcome](https://raw.githubusercontent.com/alamparelli/blog/refs/heads/master/content/posts/welcome.jpg)
+![Welcome](https://github.com/alamparelli/blog/blob/master/public/images/welcome.jpg)
 
 Right now, I have a ton of ideas swirling around, and I’ve had to make some choices about what to prioritize with my current schedule. My goal is to create a portfolio site with a unique design, along with a blog space. But since I'm busy working on my next project, I’ve decided to start with this temporary blog, which you’re seeing here in this first post.
 
