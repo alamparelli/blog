@@ -2,11 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Personal Blog</title>
-    <link>https://blog.lamparelli.eu/posts/</link>
-    <description>Recent content in Posts on My Personal Blog</description>
-    <generator>Hugo</generator>
+    <link>/posts/</link>
+    <description>My Personal Blog (Posts)</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://blog.lamparelli.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Thu, 07 Nov 2024 14:56:56 +0100</lastBuildDate>
+    
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Thu, 07 Nov 2024 14:56:56 +0100</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;its-only-about-time-to-market&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#its-only-about-time-to-market&#34;&gt;
+        #
+    &lt;/a&gt;
+    It&amp;rsquo;s only about Time to Market
+&lt;/div&gt;
+&lt;/h2&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

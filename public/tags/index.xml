@@ -2,10 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Personal Blog</title>
-    <link>https://blog.lamparelli.eu/tags/</link>
-    <description>Recent content in Tags on My Personal Blog</description>
-    <generator>Hugo</generator>
+    <link>/tags/</link>
+    <description>My Personal Blog (Tags)</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://blog.lamparelli.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Thu, 07 Nov 2024 14:56:56 +0100</lastBuildDate>
+    
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

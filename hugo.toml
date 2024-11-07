@@ -1,4 +1,51 @@
 baseURL = 'https://blog.lamparelli.eu/'
 languageCode = 'en-us'
 title = 'My Personal Blog'
-theme = 'ananke'
+theme = 'anubis2'
+
+[params.author]
+name = "alamparelli"
+
+[markup.goldmark.renderer]
+unsafe = true # true | false; Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style = 'base16-snazzy' # Highlight.js style
+
+
+colorTheme = "auto"
+colorThemeSwitcher = true
+
+[[params.social]]
+id = "linkedin"
+url = "https://www.linkedin.com/in/lamparellia"
+
+[[params.social]]
+id = "github"
+url = "https://github.com/alamparelli"
+
+[[params.social]]
+id = "x"
+url = "https://x.com/a_lamparelli"
+
+[taxonomies]
+tag = "tags"    
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 4
+
