@@ -24,14 +24,22 @@
       <pubDate>Thu, 07 Nov 2024 14:56:56 +0100</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;its-only-about-time-to-market&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#its-only-about-time-to-market&#34;&gt;
-        #
-    &lt;/a&gt;
-    It&amp;rsquo;s only about Time to Market
-&lt;/div&gt;
-&lt;/h2&gt;
+      <description>&lt;p&gt;Right now, I have a ton of ideas swirling around, and I’ve had to make some choices about what to prioritize with my current schedule. My goal is to create a portfolio site with a unique design, along with a blog space. But since I&amp;rsquo;m busy working on my next project, I’ve decided to start with this temporary blog, which you’re seeing here in this first post.&lt;/p&gt;
+&lt;p&gt;It felt essential to have a space where I can continue sharing my thoughts and keep you updated on my upcoming projects. I value this blog a lot—not only for myself (I might be the only reader for now!) but also for you, future visitors.&lt;/p&gt;
+&lt;p&gt;Feel free to leave a message or follow me on social media so we can share and connect around all the exciting things currently in progress. This blog will be a space for ideas and connections, where I hope to build something meaningful with you.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;welcome.jpeg&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;I am Alessandro, nice to meet you!&lt;/p&gt;
+&lt;p&gt;With a background as an independent IT consultant specializing in management, I have always thrived on tackling complex problems and providing solutions that drive efficiency. However, my innate curiosity and passion for continuous learning have led me to an exciting crossroads in my career. Recognizing the growing potential in the world of development, I am now fully committed to becoming a full-stack JavaScript developer. This new path not only aligns with my entrepreneurial spirit but also offers the opportunity to craft innovative solutions directly from code.&lt;/p&gt;
+&lt;p&gt;Currently, I’m immersed in the challenging yet rewarding process of rerouting my career. As I build my skills in full-stack development, I am also envisioning how these capabilities will enable me to expand my freelance business or develop unique solutions for clients. It’s a journey that requires dedication and resilience, but it’s one that promises to merge my technical expertise with my entrepreneurial ambitions, setting the stage for a dynamic and fulfilling future.&lt;/p&gt;
 </description>
     </item>
     

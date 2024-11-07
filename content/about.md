@@ -1,0 +1,5 @@
+I am Alessandro, nice to meet you!
+
+With a background as an independent IT consultant specializing in management, I have always thrived on tackling complex problems and providing solutions that drive efficiency. However, my innate curiosity and passion for continuous learning have led me to an exciting crossroads in my career. Recognizing the growing potential in the world of development, I am now fully committed to becoming a full-stack JavaScript developer. This new path not only aligns with my entrepreneurial spirit but also offers the opportunity to craft innovative solutions directly from code.
+
+Currently, I’m immersed in the challenging yet rewarding process of rerouting my career. As I build my skills in full-stack development, I am also envisioning how these capabilities will enable me to expand my freelance business or develop unique solutions for clients. It’s a journey that requires dedication and resilience, but it’s one that promises to merge my technical expertise with my entrepreneurial ambitions, setting the stage for a dynamic and fulfilling future.
